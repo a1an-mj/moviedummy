@@ -118,7 +118,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/godfather/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/d4KNaTrltq6bpkFS01pYtyXa09m.jpg"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
     },
     {
       "id": 7,
@@ -138,7 +138,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/matrix/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/9rkRJwljG0Ko5cxqv4TsPM0NS8o.jpg"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
     },
     {
       "id": 8,
@@ -158,7 +158,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/pulp-fiction/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/tAVy7d0qYPM3T1NzHtHBpYimIaP.jpg"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/82/Pulp_Fiction_cover.jpg"
     },
     {
       "id": 9,
@@ -198,7 +198,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/schindlers-list/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/5UrtWC5wIOEMF2FjaXiUuIM5e0k.jpg"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"
     },
     {
       "id": 11,
@@ -398,7 +398,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/whiplash/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/oPxnRhyAIzJKGUEdSiwTJQBa2Kc.jpg"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg"
     }
   ],
   "total": 35,
