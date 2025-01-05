@@ -362,43 +362,43 @@
     },
     {
       "id": 19,
-      "title": "Inception",
-      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-      "category": "Sci-Fi",
-      "releaseYear": 2010,
-      "rating": 8.8,
-      "director": "Christopher Nolan",
-      "runtime": 148,
+      "title": "Django Unchained",
+      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "category": "Western",
+      "releaseYear": 2012,
+      "rating": 8.4,
+      "director": "Quentin Tarantino",
+      "runtime": 165,
       "languages": ["English"],
       "cast": [
-        "Leonardo DiCaprio",
-        "Joseph Gordon-Levitt",
-        "Elliot Page"
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
       ],
       "images": [
-        "https://cdn.dummyjson.com/movies/images/inception/1.png"
+        "https://cdn.dummyjson.com/movies/images/django-unchained/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
     },
     {
       "id": 20,
-      "title": "Forrest Gump",
-      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "title": "Whiplash",
+      "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
       "category": "Drama",
-      "releaseYear": 1994,
-      "rating": 8.8,
-      "director": "Robert Zemeckis",
-      "runtime": 142,
+      "releaseYear": 2014,
+      "rating": 8.5,
+      "director": "Damien Chazelle",
+      "runtime": 106,
       "languages": ["English"],
       "cast": [
-        "Tom Hanks",
-        "Robin Wright",
-        "Gary Sinise"
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser"
       ],
       "images": [
-        "https://cdn.dummyjson.com/movies/images/forrest-gump/1.png"
+        "https://cdn.dummyjson.com/movies/images/whiplash/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/oPxnRhyAIzJKGUEdSiwTJQBa2Kc.jpg"
     }
   ],
   "total": 35,
