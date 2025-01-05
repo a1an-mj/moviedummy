@@ -45,7 +45,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/shawshank-redemption/1.png"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/movies/images/shawshank-redemption/thumbnail.png"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
     },
     {
       "id": 2,
@@ -92,7 +92,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/dark-knight/1.png"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/movies/images/dark-knight/thumbnail.png"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     },
     {
       "id": 3,
@@ -139,10 +139,104 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/inception/1.png"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/movies/images/inception/thumbnail.png"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "category": "Drama",
+      "releaseYear": 1999,
+      "rating": 8.8,
+      "tags": [
+        "anarchy",
+        "psychological",
+        "underground"
+      ],
+      "director": "David Fincher",
+      "runtime": 139,
+      "languages": ["English"],
+      "cast": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Helena Bonham Carter"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "A dark, gripping tale!",
+          "date": "2024-12-23T13:45:00.000Z",
+          "reviewerName": "Noah Wilson",
+          "reviewerEmail": "noah.wilson@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Twists and turns at every corner!",
+          "date": "2024-12-23T14:00:00.000Z",
+          "reviewerName": "Olivia Moore",
+          "reviewerEmail": "olivia.moore@example.com"
+        }
+      ],
+      "meta": {
+        "createdAt": "2024-12-23T08:45:00.000Z",
+        "updatedAt": "2024-12-23T10:45:00.000Z",
+        "barcode": "0123456789126",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/fight-club/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/a26cQPRhJPX6GbWfQbvZdrrp9j9.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+      "category": "Drama",
+      "releaseYear": 1994,
+      "rating": 8.8,
+      "tags": [
+        "life story",
+        "inspiring",
+        "emotional"
+      ],
+      "director": "Robert Zemeckis",
+      "runtime": 142,
+      "languages": ["English"],
+      "cast": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ],
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Heartwarming and inspiring!",
+          "date": "2024-12-23T14:15:00.000Z",
+          "reviewerName": "Emily Clark",
+          "reviewerEmail": "emily.clark@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "A timeless classic!",
+          "date": "2024-12-23T14:30:00.000Z",
+          "reviewerName": "Lucas Hernandez",
+          "reviewerEmail": "lucas.hernandez@example.com"
+        }
+      ],
+      "meta": {
+        "createdAt": "2024-12-23T09:00:00.000Z",
+        "updatedAt": "2024-12-23T11:00:00.000Z",
+        "barcode": "0123456789127",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/forrest-gump/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
     }
   ],
-  "total": 3,
+  "total": 20,
   "skip": 0,
   "limit": 30
 }
