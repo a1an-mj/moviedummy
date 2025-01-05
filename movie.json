@@ -118,7 +118,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/godfather/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/rzPbspw0Ypa0VhbV0wGVAX37vXf.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/d4KNaTrltq6bpkFS01pYtyXa09m.jpg"
     },
     {
       "id": 7,
@@ -138,7 +138,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/matrix/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/xrOq3ByXJeQdGww0qHTqVUwLz6m.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/9rkRJwljG0Ko5cxqv4TsPM0NS8o.jpg"
     },
     {
       "id": 8,
@@ -158,7 +158,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/pulp-fiction/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/6ovk72JWy7EMc4EByKkPzZk1J4m.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/tAVy7d0qYPM3T1NzHtHBpYimIaP.jpg"
     },
     {
       "id": 9,
@@ -178,7 +178,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/lotr-fellowship/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/6h4klUzr8DFJFCF2g0CDEzB3leW.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
     },
     {
       "id": 10,
@@ -198,7 +198,7 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/schindlers-list/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/qyE5pFg5ZWW9UpXbHdoTzj8TUKf.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/5UrtWC5wIOEMF2FjaXiUuIM5e0k.jpg"
     },
     {
       "id": 11,
@@ -218,12 +218,92 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/gladiator/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/s7QbqYd7WvcBqjvU0pweFQm0Ixf.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
     },
     {
       "id": 12,
+      "title": "The Silence of the Lambs",
+      "description": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer.",
+      "category": "Thriller",
+      "releaseYear": 1991,
+      "rating": 8.6,
+      "director": "Jonathan Demme",
+      "runtime": 118,
+      "languages": ["English"],
+      "cast": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/silence-of-the-lambs/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Saving Private Ryan",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "category": "War",
+      "releaseYear": 1998,
+      "rating": 8.6,
+      "director": "Steven Spielberg",
+      "runtime": 169,
+      "languages": ["English"],
+      "cast": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/saving-private-ryan/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Green Mile",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "category": "Drama",
+      "releaseYear": 1999,
+      "rating": 8.6,
+      "director": "Frank Darabont",
+      "runtime": 189,
+      "languages": ["English"],
+      "cast": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/the-green-mile/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/velWPhVMQeQKcxggNEU8YmIo52R.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Departed",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "category": "Crime",
+      "releaseYear": 2006,
+      "rating": 8.5,
+      "director": "Martin Scorsese",
+      "runtime": 151,
+      "languages": ["English"],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/the-departed/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg"
+    },
+    {
+      "id": 16,
       "title": "Interstellar",
-      "description": "A team of explorers must travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "category": "Sci-Fi",
       "releaseYear": 2014,
       "rating": 8.6,
@@ -238,167 +318,87 @@
       "images": [
         "https://cdn.dummyjson.com/movies/images/interstellar/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/sJW5hUhgBozAomfl3YlVExWg2Qm.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
     },
     {
-      "id": 13,
+      "id": 17,
       "title": "The Lion King",
-      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "description": "A lion prince, Simba, flees his kingdom only to learn the true meaning of responsibility and bravery.",
       "category": "Animation",
       "releaseYear": 1994,
       "rating": 8.5,
-      "director": "Roger Allers",
+      "director": "Roger Allers, Rob Minkoff",
       "runtime": 88,
       "languages": ["English"],
       "cast": [
         "Matthew Broderick",
-        "James Earl Jones",
-        "Jeremy Irons"
+        "Jeremy Irons",
+        "James Earl Jones"
       ],
       "images": [
-        "https://cdn.dummyjson.com/movies/images/lion-king/1.png"
+        "https://cdn.dummyjson.com/movies/images/the-lion-king/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/aXKuX57yFC6y8Aqew1mBgu68iGs.jpg"
-    },
-    {
-      "id": 14,
-      "title": "The Prestige",
-      "description": "Two magicians engage in a bitter rivalry, each seeking to create the ultimate illusion while sacrificing everything they hold dear.",
-      "category": "Drama",
-      "releaseYear": 2006,
-      "rating": 8.5,
-      "director": "Christopher Nolan",
-      "runtime": 130,
-      "languages": ["English"],
-      "cast": [
-        "Christian Bale",
-        "Hugh Jackman",
-        "Scarlett Johansson"
-      ],
-      "images": [
-        "https://cdn.dummyjson.com/movies/images/prestige/1.png"
-      ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/owGppYp8XNckp4c4Z8rz6bQbIT6.jpg"
-    },
-    {
-      "id": 15,
-      "title": "Titanic",
-      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
-      "category": "Romance",
-      "releaseYear": 1997,
-      "rating": 7.8,
-      "director": "James Cameron",
-      "runtime": 195,
-      "languages": ["English"],
-      "cast": [
-        "Leonardo DiCaprio",
-        "Kate Winslet",
-        "Billy Zane"
-      ],
-      "images": [
-        "https://cdn.dummyjson.com/movies/images/titanic/1.png"
-      ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/xrHhguRNNbDBnU4LRs8MkCok8yq.jpg"
-    },
-    {
-      "id": 16,
-      "title": "The Godfather: Part II",
-      "description": "The early life and career of Vito Corleone in 1920s Sicily and 1930s New York are depicted, while his son Michael expands and tightens his grip on power in the 1950s.",
-      "category": "Crime",
-      "releaseYear": 1974,
-      "rating": 9.0,
-      "director": "Francis Ford Coppola",
-      "runtime": 202,
-      "languages": ["English"],
-      "cast": [
-        "Al Pacino",
-        "Robert De Niro",
-        "Diane Keaton"
-      ],
-      "images": [
-        "https://cdn.dummyjson.com/movies/images/godfather-ii/1.png"
-      ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/8ggpCvOb2qBzexJ8Iks3qBeBoKD.jpg"
-    },
-    {
-      "id": 17,
-      "title": "The Departed",
-      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston.",
-      "category": "Crime",
-      "releaseYear": 2006,
-      "rating": 8.5,
-      "director": "Martin Scorsese",
-      "runtime": 151,
-      "languages": ["English"],
-      "cast": [
-        "Leonardo DiCaprio",
-        "Matt Damon",
-        "Jack Nicholson"
-      ],
-      "images": [
-        "https://cdn.dummyjson.com/movies/images/departed/1.png"
-      ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/xGxSbgkyzAPZws8Bov7f88Ap3YM.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
     },
     {
       "id": 18,
-      "title": "The Dark Knight Rises",
-      "description": "Eight years after the Joker's reign of terror, Gotham City is in a state of peace. But when a new terrorist named Bane arrives, Batman must return.",
+      "title": "The Avengers",
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
       "category": "Action",
       "releaseYear": 2012,
-      "rating": 8.4,
-      "director": "Christopher Nolan",
-      "runtime": 164,
+      "rating": 8.0,
+      "director": "Joss Whedon",
+      "runtime": 143,
       "languages": ["English"],
       "cast": [
-        "Christian Bale",
-        "Tom Hardy",
-        "Anne Hathaway"
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Scarlett Johansson"
       ],
       "images": [
-        "https://cdn.dummyjson.com/movies/images/dark-knight-rises/1.png"
+        "https://cdn.dummyjson.com/movies/images/the-avengers/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/74bTk5y7A5vFqzQOx3QINdJ8yXw.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
     },
     {
       "id": 19,
-      "title": "Avatar",
-      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
-      "category": "Action",
-      "releaseYear": 2009,
-      "rating": 7.8,
-      "director": "James Cameron",
-      "runtime": 162,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "category": "Sci-Fi",
+      "releaseYear": 2010,
+      "rating": 8.8,
+      "director": "Christopher Nolan",
+      "runtime": 148,
       "languages": ["English"],
       "cast": [
-        "Sam Worthington",
-        "Zoe Saldana",
-        "Sigourney Weaver"
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
       ],
       "images": [
-        "https://cdn.dummyjson.com/movies/images/avatar/1.png"
+        "https://cdn.dummyjson.com/movies/images/inception/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/4uw7BmiS7kpj8myHeq62p7c2yYt.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg"
     },
     {
       "id": 20,
-      "title": "The Silence of the Lambs",
-      "description": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
-      "category": "Thriller",
-      "releaseYear": 1991,
-      "rating": 8.6,
-      "director": "Jonathan Demme",
-      "runtime": 118,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "category": "Drama",
+      "releaseYear": 1994,
+      "rating": 8.8,
+      "director": "Robert Zemeckis",
+      "runtime": 142,
       "languages": ["English"],
       "cast": [
-        "Jodie Foster",
-        "Anthony Hopkins",
-        "Lawrence A. Bonney"
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
       ],
       "images": [
-        "https://cdn.dummyjson.com/movies/images/silence-lambs/1.png"
+        "https://cdn.dummyjson.com/movies/images/forrest-gump/1.png"
       ],
-      "thumbnail": "https://www.themoviedb.org/t/p/original/2psxMGj2BdDd3aaIBlHml1Txmr8.jpg"
+      "thumbnail": "https://www.themoviedb.org/t/p/original/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg"
     }
   ],
   "total": 35,
