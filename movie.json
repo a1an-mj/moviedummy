@@ -7,11 +7,6 @@
       "category": "Drama",
       "releaseYear": 1994,
       "rating": 9.3,
-      "tags": [
-        "prison",
-        "friendship",
-        "redemption"
-      ],
       "director": "Frank Darabont",
       "runtime": 142,
       "languages": ["English"],
@@ -20,28 +15,6 @@
         "Morgan Freeman",
         "Bob Gunton"
       ],
-      "reviews": [
-        {
-          "rating": 5,
-          "comment": "A masterpiece of cinema!",
-          "date": "2024-12-23T12:00:00.000Z",
-          "reviewerName": "Alice Johnson",
-          "reviewerEmail": "alice.johnson@example.com"
-        },
-        {
-          "rating": 4,
-          "comment": "Touching and inspiring!",
-          "date": "2024-12-23T12:30:00.000Z",
-          "reviewerName": "Mark Lee",
-          "reviewerEmail": "mark.lee@example.com"
-        }
-      ],
-      "meta": {
-        "createdAt": "2024-12-23T08:00:00.000Z",
-        "updatedAt": "2024-12-23T10:00:00.000Z",
-        "barcode": "0123456789123",
-        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-      },
       "images": [
         "https://cdn.dummyjson.com/movies/images/shawshank-redemption/1.png"
       ],
@@ -54,11 +27,6 @@
       "category": "Action",
       "releaseYear": 2008,
       "rating": 9.0,
-      "tags": [
-        "superhero",
-        "crime",
-        "thriller"
-      ],
       "director": "Christopher Nolan",
       "runtime": 152,
       "languages": ["English"],
@@ -67,28 +35,6 @@
         "Heath Ledger",
         "Aaron Eckhart"
       ],
-      "reviews": [
-        {
-          "rating": 5,
-          "comment": "An unforgettable cinematic experience!",
-          "date": "2024-12-23T12:45:00.000Z",
-          "reviewerName": "John Smith",
-          "reviewerEmail": "john.smith@example.com"
-        },
-        {
-          "rating": 5,
-          "comment": "Heath Ledger's Joker is iconic!",
-          "date": "2024-12-23T13:00:00.000Z",
-          "reviewerName": "Emma Brown",
-          "reviewerEmail": "emma.brown@example.com"
-        }
-      ],
-      "meta": {
-        "createdAt": "2024-12-23T08:15:00.000Z",
-        "updatedAt": "2024-12-23T10:15:00.000Z",
-        "barcode": "0123456789124",
-        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-      },
       "images": [
         "https://cdn.dummyjson.com/movies/images/dark-knight/1.png"
       ],
@@ -101,11 +47,6 @@
       "category": "Sci-Fi",
       "releaseYear": 2010,
       "rating": 8.8,
-      "tags": [
-        "dreams",
-        "heist",
-        "psychological"
-      ],
       "director": "Christopher Nolan",
       "runtime": 148,
       "languages": ["English"],
@@ -114,28 +55,6 @@
         "Joseph Gordon-Levitt",
         "Elliot Page"
       ],
-      "reviews": [
-        {
-          "rating": 5,
-          "comment": "A mind-bending masterpiece!",
-          "date": "2024-12-23T13:15:00.000Z",
-          "reviewerName": "Sophia Davis",
-          "reviewerEmail": "sophia.davis@example.com"
-        },
-        {
-          "rating": 4,
-          "comment": "Complex but brilliant!",
-          "date": "2024-12-23T13:30:00.000Z",
-          "reviewerName": "Liam Miller",
-          "reviewerEmail": "liam.miller@example.com"
-        }
-      ],
-      "meta": {
-        "createdAt": "2024-12-23T08:30:00.000Z",
-        "updatedAt": "2024-12-23T10:30:00.000Z",
-        "barcode": "0123456789125",
-        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-      },
       "images": [
         "https://cdn.dummyjson.com/movies/images/inception/1.png"
       ],
@@ -148,11 +67,6 @@
       "category": "Drama",
       "releaseYear": 1999,
       "rating": 8.8,
-      "tags": [
-        "anarchy",
-        "psychological",
-        "underground"
-      ],
       "director": "David Fincher",
       "runtime": 139,
       "languages": ["English"],
@@ -161,28 +75,6 @@
         "Edward Norton",
         "Helena Bonham Carter"
       ],
-      "reviews": [
-        {
-          "rating": 5,
-          "comment": "A dark, gripping tale!",
-          "date": "2024-12-23T13:45:00.000Z",
-          "reviewerName": "Noah Wilson",
-          "reviewerEmail": "noah.wilson@example.com"
-        },
-        {
-          "rating": 4,
-          "comment": "Twists and turns at every corner!",
-          "date": "2024-12-23T14:00:00.000Z",
-          "reviewerName": "Olivia Moore",
-          "reviewerEmail": "olivia.moore@example.com"
-        }
-      ],
-      "meta": {
-        "createdAt": "2024-12-23T08:45:00.000Z",
-        "updatedAt": "2024-12-23T10:45:00.000Z",
-        "barcode": "0123456789126",
-        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-      },
       "images": [
         "https://cdn.dummyjson.com/movies/images/fight-club/1.png"
       ],
@@ -195,11 +87,6 @@
       "category": "Drama",
       "releaseYear": 1994,
       "rating": 8.8,
-      "tags": [
-        "life story",
-        "inspiring",
-        "emotional"
-      ],
       "director": "Robert Zemeckis",
       "runtime": 142,
       "languages": ["English"],
@@ -208,35 +95,313 @@
         "Robin Wright",
         "Gary Sinise"
       ],
-      "reviews": [
-        {
-          "rating": 5,
-          "comment": "Heartwarming and inspiring!",
-          "date": "2024-12-23T14:15:00.000Z",
-          "reviewerName": "Emily Clark",
-          "reviewerEmail": "emily.clark@example.com"
-        },
-        {
-          "rating": 5,
-          "comment": "A timeless classic!",
-          "date": "2024-12-23T14:30:00.000Z",
-          "reviewerName": "Lucas Hernandez",
-          "reviewerEmail": "lucas.hernandez@example.com"
-        }
-      ],
-      "meta": {
-        "createdAt": "2024-12-23T09:00:00.000Z",
-        "updatedAt": "2024-12-23T11:00:00.000Z",
-        "barcode": "0123456789127",
-        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-      },
       "images": [
         "https://cdn.dummyjson.com/movies/images/forrest-gump/1.png"
       ],
       "thumbnail": "https://www.themoviedb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "category": "Crime",
+      "releaseYear": 1972,
+      "rating": 9.2,
+      "director": "Francis Ford Coppola",
+      "runtime": 175,
+      "languages": ["English"],
+      "cast": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/godfather/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/rzPbspw0Ypa0VhbV0wGVAX37vXf.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "category": "Sci-Fi",
+      "releaseYear": 1999,
+      "rating": 8.7,
+      "director": "The Wachowskis",
+      "runtime": 136,
+      "languages": ["English"],
+      "cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/matrix/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/xrOq3ByXJeQdGww0qHTqVUwLz6m.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "category": "Crime",
+      "releaseYear": 1994,
+      "rating": 8.9,
+      "director": "Quentin Tarantino",
+      "runtime": 154,
+      "languages": ["English"],
+      "cast": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/pulp-fiction/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/6ovk72JWy7EMc4EByKkPzZk1J4m.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "A young hobbit, Frodo Baggins, is tasked with the journey of a lifetime to destroy the One Ring, which has the power to bring ultimate evil.",
+      "category": "Adventure",
+      "releaseYear": 2001,
+      "rating": 8.8,
+      "director": "Peter Jackson",
+      "runtime": 178,
+      "languages": ["English"],
+      "cast": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/lotr-fellowship/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/6h4klUzr8DFJFCF2g0CDEzB3leW.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, Oskar Schindler saves over a thousand Jewish refugees by employing them in his factories.",
+      "category": "Biography",
+      "releaseYear": 1993,
+      "rating": 9.0,
+      "director": "Steven Spielberg",
+      "runtime": 195,
+      "languages": ["English"],
+      "cast": [
+        "Liam Neeson",
+        "Ben Kingsley",
+        "Ralph Fiennes"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/schindlers-list/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/qyE5pFg5ZWW9UpXbHdoTzj8TUKf.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "description": "A betrayed Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "category": "Action",
+      "releaseYear": 2000,
+      "rating": 8.5,
+      "director": "Ridley Scott",
+      "runtime": 155,
+      "languages": ["English"],
+      "cast": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/gladiator/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/s7QbqYd7WvcBqjvU0pweFQm0Ixf.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Interstellar",
+      "description": "A team of explorers must travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "category": "Sci-Fi",
+      "releaseYear": 2014,
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "runtime": 169,
+      "languages": ["English"],
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/interstellar/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/sJW5hUhgBozAomfl3YlVExWg2Qm.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Lion King",
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "category": "Animation",
+      "releaseYear": 1994,
+      "rating": 8.5,
+      "director": "Roger Allers",
+      "runtime": 88,
+      "languages": ["English"],
+      "cast": [
+        "Matthew Broderick",
+        "James Earl Jones",
+        "Jeremy Irons"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/lion-king/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/aXKuX57yFC6y8Aqew1mBgu68iGs.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Prestige",
+      "description": "Two magicians engage in a bitter rivalry, each seeking to create the ultimate illusion while sacrificing everything they hold dear.",
+      "category": "Drama",
+      "releaseYear": 2006,
+      "rating": 8.5,
+      "director": "Christopher Nolan",
+      "runtime": 130,
+      "languages": ["English"],
+      "cast": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/prestige/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/owGppYp8XNckp4c4Z8rz6bQbIT6.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Titanic",
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "category": "Romance",
+      "releaseYear": 1997,
+      "rating": 7.8,
+      "director": "James Cameron",
+      "runtime": 195,
+      "languages": ["English"],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/titanic/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/xrHhguRNNbDBnU4LRs8MkCok8yq.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The Godfather: Part II",
+      "description": "The early life and career of Vito Corleone in 1920s Sicily and 1930s New York are depicted, while his son Michael expands and tightens his grip on power in the 1950s.",
+      "category": "Crime",
+      "releaseYear": 1974,
+      "rating": 9.0,
+      "director": "Francis Ford Coppola",
+      "runtime": 202,
+      "languages": ["English"],
+      "cast": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Diane Keaton"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/godfather-ii/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/8ggpCvOb2qBzexJ8Iks3qBeBoKD.jpg"
+    },
+    {
+      "id": 17,
+      "title": "The Departed",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston.",
+      "category": "Crime",
+      "releaseYear": 2006,
+      "rating": 8.5,
+      "director": "Martin Scorsese",
+      "runtime": 151,
+      "languages": ["English"],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/departed/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/xGxSbgkyzAPZws8Bov7f88Ap3YM.jpg"
+    },
+    {
+      "id": 18,
+      "title": "The Dark Knight Rises",
+      "description": "Eight years after the Joker's reign of terror, Gotham City is in a state of peace. But when a new terrorist named Bane arrives, Batman must return.",
+      "category": "Action",
+      "releaseYear": 2012,
+      "rating": 8.4,
+      "director": "Christopher Nolan",
+      "runtime": 164,
+      "languages": ["English"],
+      "cast": [
+        "Christian Bale",
+        "Tom Hardy",
+        "Anne Hathaway"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/dark-knight-rises/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/74bTk5y7A5vFqzQOx3QINdJ8yXw.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Avatar",
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "category": "Action",
+      "releaseYear": 2009,
+      "rating": 7.8,
+      "director": "James Cameron",
+      "runtime": 162,
+      "languages": ["English"],
+      "cast": [
+        "Sam Worthington",
+        "Zoe Saldana",
+        "Sigourney Weaver"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/avatar/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/4uw7BmiS7kpj8myHeq62p7c2yYt.jpg"
+    },
+    {
+      "id": 20,
+      "title": "The Silence of the Lambs",
+      "description": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+      "category": "Thriller",
+      "releaseYear": 1991,
+      "rating": 8.6,
+      "director": "Jonathan Demme",
+      "runtime": 118,
+      "languages": ["English"],
+      "cast": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Lawrence A. Bonney"
+      ],
+      "images": [
+        "https://cdn.dummyjson.com/movies/images/silence-lambs/1.png"
+      ],
+      "thumbnail": "https://www.themoviedb.org/t/p/original/2psxMGj2BdDd3aaIBlHml1Txmr8.jpg"
     }
   ],
-  "total": 20,
+  "total": 35,
   "skip": 0,
-  "limit": 30
+  "limit": 20
 }
